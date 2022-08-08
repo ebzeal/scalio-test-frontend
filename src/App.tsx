@@ -13,14 +13,6 @@ const styles = {
 
 function App() {
   return (
-
-    // <BrowserRouter>
-    //   <Routes>
-    //     <Route exact path="/" element={<Home/>}/>
-    //     <Route exact path="/about" element={<About/>}/>
-    //   </Routes>
-    //   </BrowserRouter>
-
     <Router>
       <div style={styles.body}>
       <NavBar />
